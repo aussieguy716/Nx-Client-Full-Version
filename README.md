@@ -263,4 +263,4 @@ This repository serves as the official landing page for NoMachine. The software 
 **Get the most recent version of NoMachine today!**
 
 ---
-**Last updated:** 2026-09-28 01:30:01 UTC
+**Last updated:** 2026-09-28 08:31:27 UTC
